@@ -4,7 +4,6 @@ import Prerequisites from "@/components/Prerequisites";
 import StepByStepGuide from "@/components/StepByStepGuide";
 import DownloadSection from "@/components/DownloadSection";
 import FAQ from "@/components/FAQ";
-import ContactSection from "@/components/ContactSection";
 import Footer from "@/components/Footer";
 
 export default function HomePage() {
@@ -17,7 +16,6 @@ export default function HomePage() {
         <StepByStepGuide />
         <DownloadSection />
         <FAQ />
-        <ContactSection />
       </main>
       <Footer />
     </div>

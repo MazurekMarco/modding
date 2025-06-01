@@ -43,7 +43,7 @@ export default function Hero() {
               e ti accompagnerà attraverso tutto il processo di installazione.
             </p>
 
-            <div className="grid md:grid-cols-3 gap-6 mb-12">
+            <div className="grid md:grid-cols-2 gap-6 mb-12">
               <div className="glass-effect rounded-xl p-6 card-hover transition-all duration-300">
                 <div className="text-primary text-3xl mb-4">
                   <Play className="w-8 h-8 mx-auto" />
@@ -58,14 +58,6 @@ export default function Hero() {
                 </div>
                 <h3 className="text-lg font-semibold mb-2">Sicuro e Testato</h3>
                 <p className="text-gray-400 text-sm">Tutti i file e i passaggi sono stati verificati e testati</p>
-              </div>
-
-              <div className="glass-effect rounded-xl p-6 card-hover transition-all duration-300">
-                <div className="text-purple-400 text-3xl mb-4">
-                  <Users className="w-8 h-8 mx-auto" />
-                </div>
-                <h3 className="text-lg font-semibold mb-2">Supporto Discord</h3>
-                <p className="text-gray-400 text-sm">Ricevi aiuto dalla nostra community su Discord</p>
               </div>
             </div>
           </div>

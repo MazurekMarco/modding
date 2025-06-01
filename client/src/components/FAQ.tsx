@@ -200,21 +200,12 @@ export default function FAQ() {
           <CardContent className="p-6">
             <h2 className="text-2xl font-bold mb-4 text-primary text-center">
               <Info className="inline mr-2 h-6 w-6" />
-              Non trovi la risposta?
+              Problemi con l'installazione?
             </h2>
             <p className="text-gray-300 mb-6 text-center">
-              Se hai una domanda specifica o stai riscontrando un problema non elencato qui,
-              non esitare a contattare la community su Discord.
+              Se hai difficoltà con uno dei passaggi, rileggi attentamente la guida e assicurati di aver seguito tutti i prerequisiti.
+              La maggior parte dei problemi deriva dal saltare un passaggio o dall'ordine sbagliato delle operazioni.
             </p>
-            <div className="text-center">
-              <Button
-                size="lg"
-                onClick={scrollToContact}
-                className="gaming-gradient text-white text-lg font-semibold px-8 py-3 rounded-full transition-all duration-300 transform hover:scale-105"
-              >
-                💬 Chiedi Aiuto su Discord
-              </Button>
-            </div>
           </CardContent>
         </Card>
       </div>

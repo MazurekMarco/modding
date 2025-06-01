@@ -238,24 +238,17 @@ export default function StepByStepGuide() {
             <p className="text-gray-300 text-center mb-4">
               ReShade migliora notevolmente la grafica del gioco ed è relativamente facile da installare.
             </p>
-            <div className="text-center space-x-4">
-              <Button asChild className="bg-purple-600 hover:bg-purple-700 mb-2 md:mb-0">
+            <div className="text-center">
+              <Button asChild className="bg-purple-600 hover:bg-purple-700">
                 <a href="https://reshade.me/" target="_blank" rel="noopener noreferrer">
                   Scarica ReShade
                 </a>
-              </Button>
-              <Button
-                variant="outline"
-                onClick={() => scrollToSection("contact")}
-                className="border-indigo-600 text-indigo-400 hover:bg-indigo-700"
-              >
-                Chiedi aiuto su Discord
               </Button>
             </div>
           </CardContent>
         </Card>
 
-        <div className="mt-8 text-center space-x-4">
+        <div className="mt-8 text-center">
           <Button
             size="lg"
             onClick={() => scrollToSection("faq")}
@@ -263,14 +256,6 @@ export default function StepByStepGuide() {
           >
             <Info className="mr-2 h-4 w-4" />
             Vedi FAQ
-          </Button>
-          <Button
-            variant="outline"
-            size="lg"
-            onClick={() => scrollToSection("contact")}
-            className="border-gray-600 text-gray-300 hover:bg-gray-700 font-semibold py-3 px-6 rounded-xl transition-all"
-          >
-            💬 Contattami
           </Button>
         </div>
       </div>

@@ -13,7 +13,6 @@ export default function Navigation() {
     { id: "guide", label: "Guida", icon: "📖" },
     { id: "downloads", label: "Download", icon: "📥" },
     { id: "faq", label: "FAQ", icon: "❓" },
-    { id: "contact", label: "Contatti", icon: "💬" },
   ];
 
   const scrollToSection = (sectionId: string) => {

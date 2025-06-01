@@ -27,34 +27,6 @@ export default function Footer() {
           <a href="#faq" className="text-gray-400 hover:text-primary transition-colors duration-200">
             FAQ
           </a>
-          <a href="#contact" className="text-gray-400 hover:text-primary transition-colors duration-200">
-            Contatti
-          </a>
-        </div>
-
-        <div className="flex justify-center space-x-6 mb-8">
-          <a
-            href="https://discord.com/channels/1130536078688919604/1301660914478616637/1378690709258895442"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="text-gray-400 hover:text-primary transition-colors duration-200"
-          >
-            <MessageCircle className="h-6 w-6" />
-          </a>
-          <a
-            href="https://github.com"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="text-gray-400 hover:text-primary transition-colors duration-200"
-          >
-            <Github className="h-6 w-6" />
-          </a>
-          <a
-            href="mailto:contact@bg3guide.com"
-            className="text-gray-400 hover:text-primary transition-colors duration-200"
-          >
-            <Mail className="h-6 w-6" />
-          </a>
         </div>
 
         <div className="border-t border-border pt-8">
