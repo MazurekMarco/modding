@@ -1,0 +1,100 @@
+🎯 Obiettivo del sito
+Creare un sito semplice, moderno e visivamente gradevole che guidi passo-passo gli utenti nell’installazione di mod su Baldur’s Gate 3, basandosi sulla Patch 8 della versione FitGirl.
+
+🗂️ Struttura del sito
+Homepage
+
+Titolo: "Guida Modding Baldur's Gate 3 - Patch 8"
+
+Breve introduzione
+
+Pulsante “Inizia la guida”
+
+Navigazione semplice (barra in alto o laterale)
+
+Pagine principali
+
+Prerequisiti
+
+Guida Passo-Passo
+
+Download Utili
+
+Domande Frequenti (FAQ)
+
+Contatti / Discord
+
+🛠️ Replit AI – Roadmap per la realizzazione
+1. Crea la struttura del progetto
+Chiedi a Replit AI:
+
+"Crea un sito web con HTML, CSS (Tailwind o semplice CSS) e JavaScript. Deve avere più pagine collegate da una navbar, ogni pagina dedicata a un passaggio della guida."
+
+2. Home Page
+Prompt:
+
+"Crea una homepage con un titolo grande, un'introduzione, un pulsante che porta alla guida e una navbar con i link a tutte le sezioni del sito."
+
+3. Pagina: Prerequisiti
+Contenuti:
+
+Elenco dei software richiesti:
+
+Baldur's Gate 3 Patch 8 da FitGirl
+
+Mod Manager: link GitHub
+
+Script Extender: link GitHub
+
+Modpack completo: link Drive
+
+ModOrder file: link Discord
+
+Nota: “Eliminare la cartella ‘Larian Studios’ da AppData”
+
+Prompt:
+
+"Crea una pagina chiamata 'prerequisiti.html' con una lista ben formattata di tutti i file da scaricare, con link cliccabili. Aggiungi una sezione 'Attenzione' evidenziata in rosso per la rimozione della cartella AppData."
+
+4. Pagina: Guida Passo-Passo
+Prompt:
+
+"Crea una pagina chiamata 'guida.html' che contiene una lista numerata con 11 passaggi dettagliati, ognuno in una card con titolo, descrizione e spazio per un'immagine (screenshot)."
+
+Puoi anche chiedere:
+
+"Aggiungi un sistema con collapsible steps (accordion) per ogni passaggio, così da rendere la lettura più comoda."
+
+5. Pagina: Download Utili
+Prompt:
+
+"Crea una pagina con link organizzati in box o cards con nome, descrizione e pulsante di download. Ad esempio: 'Mod Manager', 'Script Extender', 'Modpack completo', ecc."
+
+6. Pagina: FAQ
+Prompt:
+
+"Crea una sezione FAQ con 3-5 domande comuni (es. 'Il gioco crasha all’avvio', 'Non vedo le mod nel manager'). Usa un formato accordion o domande cliccabili."
+
+7. Contatti / Discord
+Prompt:
+
+"Crea una pagina con un invito a contattarti via Discord, con stile amichevole. Aggiungi un'icona di Discord."
+
+✨ Stile e UX
+Prompt:
+
+"Applica uno stile moderno, leggibile, con sfondo chiaro, caratteri grandi, bottoni evidenziati, e navbar sempre visibile. Le sezioni devono essere ben separate e responsive."
+
+Puoi anche aggiungere:
+
+"Usa Tailwind CSS per uno stile pulito e responsivo."
+
+📎 Extra: immagini
+Prompt:
+
+"Inserisci uno spazio per caricare gli screenshot numerati, come screenshot1.png, screenshot2.png ecc., così che posso aggiungerli in seguito nella cartella del progetto."
+
+🧪 Test finale
+Prompt:
+
+"Controlla che tutti i link funzionino e che ogni pagina sia navigabile da navbar. Assicurati che il sito sia responsive anche su mobile."

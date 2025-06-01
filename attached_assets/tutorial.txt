@@ -1,0 +1,49 @@
+prerequisiti
+baldurs gate 3 patch 8 dal torrent di fitgirl
+mod manager:
+https://github.com/LaughingLeader/BG3ModManager/releases/download/1.0.12.9/BG3ModManager_Latest.zip
+baldurs gate 3 script extender:
+https://github.com/Norbyte/bg3se/releases/download/updater-20240430/BG3SE-Updater-20240430.zip
+eliminare la cartella larian studios dagli appdata:
+win + r > appdata > cercare tra le tre cartelle una cartella chiamata "larianstudios" o simile ed eliminarla
+il modpack completo:
+https://drive.google.com/file/d/1coZargB7ufnoAq5jyB_JKLeoZfrsTGBG/view?usp=drive_link
+il modorder:
+https://discord.com/channels/1130536078688919604/1301660914478616637/1378690709258895442
+
+1) trovare la cartella di installazione
+tasto destro sull'icona di baldur's gate > "apri percorso file" finche si raggiunge una cartella fatta cosi *screenshot 1*
+
+2) estrarre lo script extender (si chiama "DWrite.dll") nella cartella "bin" *screenshot 2*
+
+3) attivare l'online fix.me
+ nella cartella NoDVD>Online Fix c'è una cartella chiamata "bin" tasto destro copia, poi torna indietro di due e incolla nella cartella principale del gioco, ti chiederà "vuoi sostituire" fare si *screenshot 3*
+
+3) far partire il gioco arrivare alla schermata iniziale e richiuderlo
+
+4) estrarre in una cartella a parte il mod manager *screenshot 4*
+
+5) aprire "BG3ModManager.exe" (*SE DICE DI SCARICARE .NET 8.0 BASTA CLICCARE OK E SCARICARLO PER POI RIAPRIRE IL MOD MANAGER*)
+
+6) si aprirà una finestra che chiederà di impostare dove è scaricato il gioco, di norma si trova in "C:\games\Baldur's Gate 3"
+quindi -vai su Windows (C:) nel menu a sinistra *screenshot 5*
+       -ti aprirà delle cartelle, vai in games e poi in baldurs gate 3
+       -una volta aperta la cartella di baldurs gate in basso a destra cliccare "utilizza 	cartella" o simile
+
+7) si aprirà il mod manager, è importante attivare quest'impostazione
+CTRL+P > poi mettere la spunta a "DirectX 11" *screenshot 6* poi salva in alto a sinistra e chiudere la pagina "preferences"
+
+8) file>import mod è selezioni la zip del modpack, ci vorrà un po'
+
+9) file>import order from file e selezioni il mod order
+
+10) una volta finito cliccare in sequenza questi tasti *screenshot7*
+
+11) GGWP
+
+
+
+OPZIONALE 
+reshade migliora di molto la grafica ed è abbastanza facile da usare
+https://reshade.me/
+al massimo chiedetemi su discord per quello
